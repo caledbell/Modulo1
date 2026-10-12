@@ -1,0 +1,18 @@
+<body>
+<nav class="navbar navbar-dark bg-primary">
+<div class="container">
+<a class="navbar-brand" href="#">OB SOLUCIONES</a>
+<div>
+<a class="text-white me-3" href="#">Inicio</a>
+<a class="text-white me-3" href="#">Servicios</a>
+<a class="text-white" href="#">Contacto</a>
+</div>
+</div>
+</nav>
+<main class="container py-5">
+<h1>Bienvenido a mi sitio</h1>
+<h2 class="display-5 text-primary fw-bold">Bootstrap es fácil</h2>
+<p>Con Bootstrap puedes crear sitios web modernos y responsivos.</p>
+<button class="btn btn-primary">Conoce más</button>
+</main>
+</body>
